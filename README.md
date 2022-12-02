@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matyas Moudry and I am a developer at Sorelio Software s.r.o.</h2>
+<h2 align="left">Hi 👋! My name is Matyas Moudry</h2>
 
 ###
 
@@ -17,25 +17,18 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/Yn4TRsd.png"  />
 
-###
+### Fullstack Laravel + VueJS developer. 
+Freelance based in 🇨🇿 Czechia. Get in touch with me if you want an awesome website for your project.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-</div>
+## Sorelio Software s.r.o.
+Laravel developer and project leader.
 
-###
+## Minecraft-list.cz <img align="right" height="150" src="https://i.imgur.com/Yn4TRsd.png"  />
 
+Owner and developer. Project for listing minecraft servers with NuVotifier integration and analytics tools for server owners.
+
+## Follow me
 <div align="left">
   <a href="https://www.instagram.com/matyasmoudry/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
