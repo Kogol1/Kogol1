@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kogol1/Kogol1/blob/output/snake.svg" alt="Snake animation" />
-
 ###
