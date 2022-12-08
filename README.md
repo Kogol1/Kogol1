@@ -22,7 +22,7 @@
 Freelance based in 🇨🇿 Czechia. Get in touch with me if you want an awesome website for your project.
 
 ## Sorelio Software s.r.o.
-Laravel developer and project leader.
+Laravel developer leader.
 
 ## Minecraft-list.cz <img align="right" height="150" src="https://i.imgur.com/Yn4TRsd.png"  />
 
