@@ -19,7 +19,7 @@
 
 
 ### Fullstack Laravel + VueJS developer. 
-Freelance based in 🇨🇿 Czechia. Get in touch with me if you want an awesome website for your project.
+Freelance developer based in 🇨🇿 Czechia. Get in touch with me if you want an awesome website for your project.
 
 ## Sorelio Software s.r.o.
 Laravel developer and project leader.
