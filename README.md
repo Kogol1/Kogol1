@@ -1,24 +1,6 @@
 <h2 align="left">Hi 👋! My name is Matyas Moudry</h2>
 
-###
-
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Kogol1&show_icons=true&theme=dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Kogol1&show_icons=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture></div>
-
-###
-
-
-### Fullstack Laravel + VueJS developer. 
+### Fullstack Laravel developer (Laravel, AlpineJS, Livewire)
 Freelance developer based in 🇨🇿 Czechia. Get in touch with me if you want an awesome website for your project.
 
 ## Sorelio Software s.r.o.
@@ -26,7 +8,7 @@ Laravel developer and project leader.
 
 ## Minecraft-list.cz <img align="right" height="150" src="https://i.imgur.com/Yn4TRsd.png"  />
 
-Owner and developer. Project for listing minecraft servers with NuVotifier integration and analytics tools for server owners.
+Owner and developer. Project for listing Minecraft servers with NuVotifier integration and analytics tools for server owners.
 
 ## Follow me
 <div align="left">
